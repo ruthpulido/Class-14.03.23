@@ -1,0 +1,14 @@
+# Ask the user to input his name and greet him/her using his name
+
+Name = input ('What is your name?')
+print (f'Hello , {Name}')
+
+
+# Ask the user for two numbers and print their multiplication
+
+o = int(input("Enter first number: "))
+t = int(input("Enter second number: "))
+
+result = o * t;
+
+print("Your result:", result)
